@@ -7,7 +7,7 @@ This repository contains the following projects:
 ## Netflix Content Analysis Dashboard
 You can view my interactive Tableau dashboard here:  
 [View Tableau Dashboard](https://public.tableau.com/app/profile/shaan.sharma4001/viz/NetflixDashboardPersonalProject/NetflixDashboard)
-- **Description:** The puporse of this project was to effectively design an interactive Tableau dashboard featuring stacked charts, bubble charts, dropdowns, bar charts, and text elements to analyse the distribution of Movies and TV Shows, top genres, and ratings.
+- **Description:** The puporse of this project was to effectively design an interactive Tableau dashboard featuring stacked charts, bubble charts, dropdowns, bar charts, and text elements to analyse the distribution of Movies and TV Shows, top 5 genres and ratings.
 - **Technologies:** Tableau, Excel, GitHub(repository), Python(Pnadas Library)
 - **Objective:** The purpose of this project was to create an interactive dashboard that helps  users to explore and discover recommendations for Movies and TV Shows across various genres and ratings through a detailed, user-friendly content analysis. This dashboard provides an effective insight onto popular genres, ratings, distribution of tv shows and movies and allows them to understand plot and insights on individual Movies and TV shows available on Netflix through drop downs.
 - **How to Run:** To access this project please click on the link above and explore insights and recommendations of a range of Movies and TV Shows on Tableau Public.
